@@ -1,0 +1,5 @@
+{
+  "name": "TradeOS Internal",
+  "description": "Internal business application for order management and barcode quality control.",
+  "requestFramePermissions": []
+}
